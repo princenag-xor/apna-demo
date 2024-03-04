@@ -1,2 +1,2 @@
-# Basic tutorial of git and github
+# Basic tutorial of Git and Github
 First commit
